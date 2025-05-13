@@ -1,6 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import matplotlib.pyplot as plt
 
 # 数式をLaTeX記法で記述
 formula = r'$\sum_{i=1}^{n} a = n a$'
